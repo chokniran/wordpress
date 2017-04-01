@@ -571,3 +571,4 @@ $num1 = 10;
 $num2 = 12;
 
 $res = $num1 + $num2;
+echo $res;
